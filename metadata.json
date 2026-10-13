@@ -1,0 +1,6 @@
+{
+  "name": "OmniRoleplay Suite",
+  "description": "All-in-one roleplay website featuring secret role dealer, self check-in kiosks, staff check-in desk, guest request portal, PA announcement chime, and custom venue management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
